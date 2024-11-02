@@ -1,12 +1,12 @@
 ## 📖: ติดตั้ง Slowdns
 ```bash
-wget https://raw.githubusercontent.com/sanglungmon/hunmai/main/slowdns.sh
+wget https://raw.githubusercontent.com/sanglungmon/sanglungmon.github.io/refs/heads/main/script/slowdns.sh
 chmod +x slowdns.sh
 ./slowdns.sh
 ```
 ## 📖: แสดงคนออนไลน์
 ```bash
-wget https://raw.githubusercontent.com/sanglungmon/hunmai/main/online.sh
+wget https://raw.githubusercontent.com/sanglungmon/sanglungmon.github.io/refs/heads/main/script/online.sh
 chmod +x online.sh
 ./online.sh
 ```
